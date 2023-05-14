@@ -52,13 +52,28 @@ The repository is structured as follows:
 
 ```
 
-│   ├── Airbnb.RMD
-│   ├── Data(Comming Soon)
-│   ├── Airbnb.twb
-│   └── Airbnb.pbix
-
+├── data/
+│   ├── city_crime_rate.csv
+│   ├── Listings.csv
+│   ├── Listing_data_dictionary.csv
+│   ├── Reviews.csv
+│   └── Review_data_dictionary.csv
+│
+├── scripts/
+│   └── Airbnb.RMD
+│   
+├── Dashboards/
+│   ├── tableau/
+│   │   ├── Airbnb.twb
+│   │   └── Airbnb.twbx
+│   │
+│   └── powerbi/
+│       ├── Airbnb.pbix
+│       └── Airbnb.pbit
+│
 ├── README.md
 └── .gitignore
+
 ```
 
 - The `data` has been used from the following sources:
