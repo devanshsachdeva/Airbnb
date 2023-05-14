@@ -54,8 +54,8 @@ The repository is structured as follows:
 
 │   ├── Airbnb.RMD
 │   ├── Data(Comming Soon)
-│   ├── city1_analysis.twb
-│   └──city1_analysis.pbix
+│   ├── Airbnb.twb
+│   └── Airbnb.pbix
 
 ├── README.md
 └── .gitignore
